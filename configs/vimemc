@@ -383,13 +383,13 @@
     "Key": 47,
     "Hidden": false,
     "Values": {
-      "Min Delay": 0.90000004,
+      "Min Delay": 1.0,
       "Max Delay": 1.0,
       "Menu Check": true,
       "Silent": false,
       "Silent View": true,
       "Aura": false,
-      "Start Delay": true,
+      "Start Delay": false,
       "Furnace": false,
       "Brewing Stand": false,
       "Avoid": false,
@@ -668,12 +668,12 @@
     "Hidden": false,
     "Values": {
       "Mode": "Open Inventory",
-      "Min Delay": 0.90000004,
+      "Min Delay": 1.0,
       "Max Delay": 1.0,
       "Drop Items": true,
       "Sort Items": true,
       "Auto Armor": true,
-      "Start Delay": true,
+      "Start Delay": false,
       "Display": true,
       "Using Item Check": true
     }
@@ -747,7 +747,7 @@
     "Hidden": false,
     "Values": {
       "FOV": 180.0,
-      "Mode": "Switch",
+      "Mode": "Single",
       "SwitchDelay": 7.0,
       "Priority": "Health",
       "AutoBlock": "None",
